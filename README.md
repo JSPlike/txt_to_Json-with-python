@@ -1,4 +1,4 @@
-# txt_to_Json-with-python
+# plainText_TO_Json with-python
 
 
 텍스트 형태의 비정형 데이터를
